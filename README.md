@@ -40,7 +40,7 @@ v
 |
 +--> [Azure AI Search]
 
-🔧 Azure Services Used
+##🔧 Azure Services Used
 Service	Purpose
 Azure AI Language	Used for QnA Maker-style question-answering (language understanding)
 Azure AI Search	Indexes documents from qna-docs/ folder for semantic search
