@@ -40,15 +40,15 @@ v
 |
 +--> [Azure AI Search]
 
-##🔧 Azure Services Used
+##  Azure Services Used
 Service	Purpose
-Azure AI Language	Used for QnA Maker-style question-answering (language understanding)
-Azure AI Search	Indexes documents from qna-docs/ folder for semantic search
-Azure Blob Storage	Stores uploaded documents for knowledge base
-Azure Web App Bot / Bot Channels Registration	Hosts and manages the Teams-integrated bot
-Azure Private Endpoints	Restricts public access, enabling only VNet-bound secure communication
-Azure Virtual Network (VNet)	Ensures all resources are deployed in a secure virtual network
-Azure Application Gateway	Provides secure frontend access with routing and TLS termination
+Azure AI Language-->	Used for QnA Maker-style question-answering (language understanding)
+Azure AI Search-->	Indexes documents from qna-docs/ folder for semantic search
+Azure Blob Storage-->	Stores uploaded documents for knowledge base
+Azure Web App Bot / Bot Channels--> Registration	Hosts and manages the Teams-integrated bot
+Azure Private Endpoints-->	Restricts public access, enabling only VNet-bound secure communication
+Azure Virtual Network (VNet)-->	Ensures all resources are deployed in a secure virtual network
+Azure Application Gateway-->	Provides secure frontend access with routing and TLS termination
 Microsoft Teams	Bot is deployed and tested in Teams via App ID registration
 
 ✅ Step-by-Step Setup
