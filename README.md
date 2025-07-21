@@ -158,17 +158,6 @@ This initiative empowers users to access reliable, governed knowledge through a 
 
 ---
 
-## 📁 Knowledge Base Folder
-
-Upload knowledge files into the Blob Storage container `qna-docs/`.
-
-### Supported Formats:
-
-- `.pdf`
-- `.docx`
-- `.txt`
-
----
 
 ## 📌 Notes
 
@@ -181,11 +170,7 @@ Upload knowledge files into the Blob Storage container `qna-docs/`.
 ## 👤 Author
 
 **Navkirat Singh**  
-📧 *your-email@example.com*  
-🔗 GitHub: [github.com/navkiratsingh](https://github.com/navkiratsingh)
+📧 *navkirats18@gmail.com*  
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
